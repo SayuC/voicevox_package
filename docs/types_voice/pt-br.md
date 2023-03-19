@@ -19,30 +19,30 @@ O parâmetro "id" abaixo pode ser especificado acima usando um número que se re
 ```json
  [
   {
-    "name": "四国めたん",
+    "name": "四国めたん / Shikoku Metan",
     "styles": [
       {
-        "name": "ノーマル",
+        "name": "normal",
         "id": 2
       },
       {
-        "name": "あまあま",
+        "name": "doce",
         "id": 0
       },
       {
-        "name": "ツンツン",
+        "name": "Tsun-Tsun",
         "id": 6
       },
       {
-        "name": "セクシー",
+        "name": "sexy",
         "id": 4
       },
       {
-        "name": "ささやき",
+        "name": "Sussurrar",
         "id": 36
       },
       {
-        "name": "ヒソヒソ",
+        "name": "sussurrando",
         "id": 37
       }
     ],
@@ -50,30 +50,30 @@ O parâmetro "id" abaixo pode ser especificado acima usando um número que se re
     "version": "0.14.1"
   },
   {
-    "name": "ずんだもん",
+    "name": "ずんだもん　/ Zundamon",
     "styles": [
       {
-        "name": "ノーマル",
+        "name": "normal",
         "id": 3
       },
       {
-        "name": "あまあま",
+        "name": "doce",
         "id": 1
       },
       {
-        "name": "ツンツン",
+        "name": "Tsun Tsun",
         "id": 7
       },
       {
-        "name": "セクシー",
+        "name": "sexy",
         "id": 5
       },
       {
-        "name": "ささやき",
+        "name": "Sussurrar",
         "id": 22
       },
       {
-        "name": "ヒソヒソ",
+        "name": "sussurrando",
         "id": 38
       }
     ],
@@ -81,10 +81,10 @@ O parâmetro "id" abaixo pode ser especificado acima usando um número que se re
     "version": "0.14.1"
   },
   {
-    "name": "春日部つむぎ",
+    "name": "春日部つむぎ　/ Tsumugi Kasukabe",
     "styles": [
       {
-        "name": "ノーマル",
+        "name": "normal",
         "id": 8
       }
     ],
@@ -92,10 +92,10 @@ O parâmetro "id" abaixo pode ser especificado acima usando um número que se re
     "version": "0.14.1"
   },
   {
-    "name": "雨晴はう",
+    "name": "雨晴はう　/ Amabarashi",
     "styles": [
       {
-        "name": "ノーマル",
+        "name": "normal",
         "id": 10
       }
     ],
@@ -103,10 +103,10 @@ O parâmetro "id" abaixo pode ser especificado acima usando um número que se re
     "version": "0.14.1"
   },
   {
-    "name": "波音リツ",
+    "name": "波音リツ　/ Namion Ritsu",
     "styles": [
       {
-        "name": "ノーマル",
+        "name": "normal",
         "id": 9
       }
     ],
@@ -114,22 +114,22 @@ O parâmetro "id" abaixo pode ser especificado acima usando um número que se re
     "version": "0.14.1"
   },
   {
-    "name": "玄野武宏",
+    "name": "玄野武宏　/ Takehiro Kurono",
     "styles": [
       {
-        "name": "ノーマル",
+        "name": "normal",
         "id": 11
       },
       {
-        "name": "喜び",
+        "name": "alegria",
         "id": 39
       },
       {
-        "name": "ツンギレ",
+        "name": "desleixado",
         "id": 40
       },
       {
-        "name": "悲しみ",
+        "name": "tristeza",
         "id": 41
       }
     ],
@@ -137,26 +137,26 @@ O parâmetro "id" abaixo pode ser especificado acima usando um número que se re
     "version": "0.14.1"
   },
   {
-    "name": "白上虎太郎",
+    "name": "白上虎太郎　/ Torataro Shirakami",
     "styles": [
       {
-        "name": "ふつう",
+        "name": "ordinário",
         "id": 12
       },
       {
-        "name": "わーい",
+        "name": "yay!",
         "id": 32
       },
       {
-        "name": "びくびく",
+        "name": "nervoso",
         "id": 33
       },
       {
-        "name": "おこ",
+        "name": "oko",
         "id": 34
       },
       {
-        "name": "びえーん",
+        "name": "bem",
         "id": 35
       }
     ],
@@ -164,10 +164,10 @@ O parâmetro "id" abaixo pode ser especificado acima usando um número que se re
     "version": "0.14.1"
   },
   {
-    "name": "青山龍星",
+    "name": "青山龍星　/ Ryuusei Aoyama",
     "styles": [
       {
-        "name": "ノーマル",
+        "name": "normal",
         "id": 13
       }
     ],
@@ -175,10 +175,10 @@ O parâmetro "id" abaixo pode ser especificado acima usando um número que se re
     "version": "0.14.1"
   },
   {
-    "name": "冥鳴ひまり",
+    "name": "冥鳴ひまり　/ Himari",
     "styles": [
       {
-        "name": "ノーマル",
+        "name": "normal",
         "id": 14
       }
     ],
@@ -186,26 +186,26 @@ O parâmetro "id" abaixo pode ser especificado acima usando um número que se re
     "version": "0.14.1"
   },
   {
-    "name": "九州そら",
+    "name": "九州そら　/ Kyūshū sora",
     "styles": [
       {
-        "name": "ノーマル",
+        "name": "normal",
         "id": 16
       },
       {
-        "name": "あまあま",
+        "name": "doce",
         "id": 15
       },
       {
-        "name": "ツンツン",
+        "name": "Tsun Tsun",
         "id": 18
       },
       {
-        "name": "セクシー",
+        "name": "sexy",
         "id": 17
       },
       {
-        "name": "ささやき",
+        "name": "Sussurrar",
         "id": 19
       }
     ],
@@ -213,10 +213,10 @@ O parâmetro "id" abaixo pode ser especificado acima usando um número que se re
     "version": "0.14.1"
   },
   {
-    "name": "もち子さん",
+    "name": "もち子さん / Mochiko",
     "styles": [
       {
-        "name": "ノーマル",
+        "name": "normal",
         "id": 20
       }
     ],
@@ -224,10 +224,10 @@ O parâmetro "id" abaixo pode ser especificado acima usando um número que se re
     "version": "0.14.1"
   },
   {
-    "name": "剣崎雌雄",
+    "name": "剣崎雌雄　/ Kenzaki shiyū",
     "styles": [
       {
-        "name": "ノーマル",
+        "name": "normal",
         "id": 21
       }
     ],
@@ -238,19 +238,19 @@ O parâmetro "id" abaixo pode ser especificado acima usando um número que se re
     "name": "WhiteCUL",
     "styles": [
       {
-        "name": "ノーマル",
+        "name": "normal",
         "id": 23
       },
       {
-        "name": "たのしい",
+        "name": "diversão",
         "id": 24
       },
       {
-        "name": "かなしい",
+        "name": "Triste",
         "id": 25
       },
       {
-        "name": "びえーん",
+        "name": "bem",
         "id": 26
       }
     ],
@@ -258,14 +258,14 @@ O parâmetro "id" abaixo pode ser especificado acima usando um número que se re
     "version": "0.14.1"
   },
   {
-    "name": "後鬼",
+    "name": "後鬼　/ Kōki",
     "styles": [
       {
-        "name": "人間ver.",
+        "name": "versão humano.",
         "id": 27
       },
       {
-        "name": "ぬいぐるみver.",
+        "name": "versão de pelúcia.",
         "id": 28
       }
     ],
@@ -276,15 +276,15 @@ O parâmetro "id" abaixo pode ser especificado acima usando um número que se re
     "name": "No.7",
     "styles": [
       {
-        "name": "ノーマル",
+        "name": "normal",
         "id": 29
       },
       {
-        "name": "アナウンス",
+        "name": "anúncio",
         "id": 30
       },
       {
-        "name": "読み聞かせ",
+        "name": "Leitura",
         "id": 31
       }
     ],
@@ -292,10 +292,10 @@ O parâmetro "id" abaixo pode ser especificado acima usando um número que se re
     "version": "0.14.1"
   },
   {
-    "name": "ちび式じい",
+    "name": "ちび式じい / Chibi-shiki",
     "styles": [
       {
-        "name": "ノーマル",
+        "name": "normal",
         "id": 42
       }
     ],
@@ -303,18 +303,18 @@ O parâmetro "id" abaixo pode ser especificado acima usando um número que se re
     "version": "0.14.1"
   },
   {
-    "name": "櫻歌ミコ",
+    "name": "櫻歌ミコ　/ Sakuraka Miko",
     "styles": [
       {
-        "name": "ノーマル",
+        "name": "normal",
         "id": 43
       },
       {
-        "name": "第二形態",
+        "name": "segunda forma",
         "id": 44
       },
       {
-        "name": "ロリ",
+        "name": "loli",
         "id": 45
       }
     ],
@@ -322,10 +322,10 @@ O parâmetro "id" abaixo pode ser especificado acima usando um número que se re
     "version": "0.14.1"
   },
   {
-    "name": "小夜/SAYO",
+    "name": "Saya/SAYO",
     "styles": [
       {
-        "name": "ノーマル",
+        "name": "normal",
         "id": 46
       }
     ],
@@ -333,22 +333,22 @@ O parâmetro "id" abaixo pode ser especificado acima usando um número que se re
     "version": "0.14.1"
   },
   {
-    "name": "ナースロボ＿タイプＴ",
+    "name": "ナースロボ＿タイプＴ　/　Nāsurobo",
     "styles": [
       {
-        "name": "ノーマル",
+        "name": "normal",
         "id": 47
       },
       {
-        "name": "楽々",
+        "name": "facilmente",
         "id": 48
       },
       {
-        "name": "恐怖",
+        "name": "Temer",
         "id": 49
       },
       {
-        "name": "内緒話",
+        "name": "segredo",
         "id": 50
       }
     ],
