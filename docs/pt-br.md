@@ -1,8 +1,14 @@
 ### VOICEVOX_CORE
 
-instale (aarch64):
+instale o pacote do voicevox_core aarch64:
 ```sh
  pip install https://github.com/AkariOficial/voicevox_package/releases/download/voicevox_core-0.14.1/voicevox_core-0.14.1+cpu.tar.gz
+```
+
+Instale o open-jtalk
+```sh
+  wget https://sourceforge.net/projects/open-jtalk/files/Dictionary/open_jtalk_dic-1.11/open_jtalk_dic_utf_8-1.11.tar.gz
+  tar -xzf open_jtalk_dic_utf_8-1.11.tar.gz
 ```
 
 Instale o pacote voicevox_core:
