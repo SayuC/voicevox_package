@@ -16,7 +16,7 @@ Instale o pacote voicevox_core:
   wget https://github.com/VOICEVOX/voicevox_core/releases/download/0.14.1/download-linux-arm64
   chmod +x download-linux-arm64 && ./download-linux-arm64
 ```
-> Entre na pasta gerada "voicevox_core" e copie a dependência **libonnxruntime.so.1.13.1** para o seu projeto voicevox
+> Entre na pasta gerada "voicevox_core" e copie a dependência **libonnxruntime.so.1.13.1** para o seu projeto voicevox.
 
 Uso：
 ```python
