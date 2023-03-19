@@ -10,7 +10,7 @@ Install the voicevox_core package:
   wget https://github.com/VOICEVOX/voicevox_core/releases/download/0.14.1/download-linux-arm64
   chmod +x download-linux-arm64 && ./download-linux-arm64
 ```
-> Go into the generated folder "voicevox_core" and add dependencie libonnxruntime.so.1.13.1 copy to the voicevox project
+> Go into the generated folder "voicevox_core" and copy the dependencie **libonnxruntime.so.1.13.1** to the your voicevox project
 
 Usage：
 ```python
