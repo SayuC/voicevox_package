@@ -35,3 +35,6 @@ with open("audio.ogg", "wb") as f:
 
 ### への貢献
  - [寄稿したアイデアや質問](https://github.com/AkariOficial/voicevox_package/discussions)
+
+またはここで問題に答えてください:
+ - [issue_template](https://github.com/AkariOficial/voicevox_package/tree/main/.github/ISSUE_TEMPLATE)
