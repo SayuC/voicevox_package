@@ -1,7 +1,7 @@
 ### VOICEVOX_CORE
 
 
-[日本]()語のドキュメントを読むか、[english]()
+[日本](https://github.com/AkariOficial/voicevox_package/blob/main/docs/日本.md)語のドキュメントを読むか、[english](https://github.com/AkariOficial/voicevox_package/blob/main/docs/english.md)
 
 インストール(aarch64):
 ```sh
