@@ -28,3 +28,6 @@ with open("audio.ogg", "wb") as f:
 ```sh
  python ./run.py ./open_jtalk_dic_utf_8-1.11 これはテストです ./audio.ogg
 ```
+
+### 音声データベースのドキュメントはこちら
+> 声の種類を変更したい場合は [ここ](https://github.com/AkariOficial/voicevox_package/blob/main/docs/types_voice/pt-br.md#aqui-voc%C3%AA-encontra-os-tipos-de-vozes-dispon%C3%ADveis)
