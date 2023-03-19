@@ -1,4 +1,5 @@
 ### VOICEVOX_CORE
+> 元の公式レポ [voicevox_core](https://github.com/Hiroshiba/voicevox_core)
 
 
 [日本](https://github.com/AkariOficial/voicevox_package/blob/main/docs/日本.md)語のドキュメントを読むか、[english](https://github.com/AkariOficial/voicevox_package/blob/main/docs/english.md)
