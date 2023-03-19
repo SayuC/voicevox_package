@@ -18,6 +18,10 @@ audio = synthetize.synthesize_audio(
     36,
     "おはよう",
     Path("./open_jtalk_dic_utf_8-1.11"))
+
+with open("audio.ogg", "wb") as f:
+        f.write(audio)
+
 ```
 
 またはコマンドラインで：
