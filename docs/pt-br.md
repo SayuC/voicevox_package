@@ -27,7 +27,7 @@ with open("audio.ogg", "wb") as f:
     f.write(audio)
 ```
 
-ou na linha de comando:
+Ou na linha de comando:
 ```sh
  python ./run.py ./open_jtalk_dic_utf_8-1.11 これはテストです ./audio.ogg
 ```
