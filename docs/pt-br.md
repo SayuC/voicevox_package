@@ -31,3 +31,7 @@ ou na linha de comando:
 ```sh
  python ./run.py ./open_jtalk_dic_utf_8-1.11 これはテストです ./audio.ogg
 ```
+----
+
+Tipos de vozes
+> caso queira trocar o tipo da voz, você pode estar vendo [aqui](https://github.com/AkariOficial/voicevox_package/blob/main/docs/types_voice/pt-br.md#aqui-voc%C3%AA-encontra-os-tipos-de-vozes-dispon%C3%ADveis)
