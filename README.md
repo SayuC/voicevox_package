@@ -1,4 +1,4 @@
-### Voicevox_core
+### VOICEVOX_CORE
 
 インストール(aarch64):
 ```sh
