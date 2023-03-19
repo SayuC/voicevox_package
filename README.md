@@ -1,5 +1,8 @@
 ### VOICEVOX_CORE
 
+
+[日本]()語のドキュメントを読むか、[english]()
+
 インストール(aarch64):
 ```sh
  pip install https://github.com/AkariOficial/voicevox_package/releases/download/voicevox_core-0.14.1/voicevox_core-0.14.1+cpu.tar.gz
