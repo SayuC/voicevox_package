@@ -24,7 +24,7 @@ audio = synthetize.synthesize_audio(
 )
 
 with open("audio.ogg", "wb") as f:
-        f.write(audio)
+    f.write(audio)
 ```
 
 or on the command line:
