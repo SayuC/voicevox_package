@@ -5,6 +5,13 @@ install (aarch64):
  pip install https://github.com/AkariOficial/voicevox_package/releases/download/voicevox_core-0.14.1/voicevox_core-0.14.1+cpu.tar.gz
 ```
 
+Install the voicevox_core package:
+```sh
+  wget https://github.com/VOICEVOX/voicevox_core/releases/download/0.14.1/download-linux-arm64
+  chmod +x download-linux-arm64 && ./download-linux-arm64
+```
+> Go into the generated folder "voicevox_core" and add dependencie libonnxruntime.so.1.13.1 copy to the voicevox project
+
 Usage：
 ```python
 from pathlib import Path
