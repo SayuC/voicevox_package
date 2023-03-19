@@ -5,7 +5,7 @@ Install package pip aarch64:
  pip install https://github.com/AkariOficial/voicevox_package/releases/download/voicevox_core-0.14.1/voicevox_core-0.14.1+cpu.tar.gz
 ```
 
-Install open-jtalk
+Install open-jtalk:
 ```sh
   wget https://sourceforge.net/projects/open-jtalk/files/Dictionary/open_jtalk_dic-1.11/open_jtalk_dic_utf_8-1.11.tar.gz
   tar -xzf open_jtalk_dic_utf_8-1.11.tar.gz
