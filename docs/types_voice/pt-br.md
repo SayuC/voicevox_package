@@ -1,6 +1,5 @@
 ### Aqui você encontra os tipos de vozes disponíveis.
 
-
 ```python
 from voicevox_core import synthetize
 from pathlib import Path
