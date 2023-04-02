@@ -1,3 +1,4 @@
 build/
 voicevox_core.egg-info/
 dist/
+test/
